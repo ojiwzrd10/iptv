@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UWAiuQmeRUZ75q",
-    "name": "Aquarius Musikindo: Frekuensi",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U4Ux0ePA_2U"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bPm6NTGGs9Aem5",
     "name": "Balikpapan TV",
     "iptv_urls": [
@@ -132,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sGIxGHruoXGkMd",
-    "name": "Gazwah TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dPRdBbsBy98"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iKRL8braCsStZJ",
     "name": "Huma Betang TV",
     "iptv_urls": [
@@ -187,56 +165,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ekV6A2aydUNj5E",
-    "name": "Khalid Basalamah",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Me04WYTpBOI"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ootv8lcMdtj5Da",
     "name": "Kilisuci TV",
     "iptv_urls": [
       "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1TkiIu9l9A50xr",
-    "name": "KOMPASTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DOOrIxw5xOw"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G44834irSD7ffK",
-    "name": "KOMPASTV JAWA TIMUR",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Lq-oUnYTxm4"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e5EXvO8ucfhlsQ",
-    "name": "Leo Si Penjaga Alam",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iuPU3IwK4zA"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -264,28 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CjxQXPJspG4"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A8yIwT2axQkqtt",
-    "name": "Media Sunnah Aceh TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wnX1Yy4qpkA"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NjiKcXL0QGKUK3",
     "name": "Metro Globe Network",
     "iptv_urls": [
@@ -297,45 +209,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mr33fExabQcdS4",
-    "name": "METRO TV ",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-CwtcKDaaLA"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nL16LWrrRRTSM1",
     "name": "MGS TV",
     "iptv_urls": [
       "https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5ymJPukuov4P1F",
-    "name": "MTATV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4_oMYS0PhVc"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ts73mvVV0P9A9R",
-    "name": "Official iNews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wssop82LUF8"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -385,28 +264,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RA-81UgyA4I"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RW7rOnO3B5Miyc",
-    "name": "Syafiq Riza Basalamah",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/50mcd3si1O4"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DoFmcYHnbbjDFG",
     "name": "TATV",
     "iptv_urls": [
@@ -435,17 +292,6 @@
       "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LoQgh9Xj1nCTfY",
-    "name": "tvOneNews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yNKvkPJl-tg"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -710,17 +556,6 @@
       "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PEvAzPEqyCSHPP",
-    "name": "UFA Live 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ecXRSSy4R8Q"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
